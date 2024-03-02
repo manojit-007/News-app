@@ -1,0 +1,1006 @@
+{
+  "status": "ok",
+  "totalResults": 1275,
+  "articles": [
+    {
+      "source": { "id": null, "name": "Hubspot.com" },
+      "author": "Sam Lauron",
+      "title": "Diving Deep Into Technical SEO for Ecommerce (My Takeaways)",
+      "description": "Explore the essential technical SEO strategies for ecommerce success, including site architecture, structured data, and keyword research. Learn from expert insights and examples to optimize your online store.",
+      "url": "https://blog.hubspot.com/marketing/technical-seo-ecommerce#article",
+      "urlToImage": "https://lh7-us.googleusercontent.com/hGDPe58kmKwnFahFudk_h7Q5kWsGsD27yNcQ4_74gM8yTOajjyu3a6ZK32xpfh29ajDSIJtWObuiZi5_IABtpDImTRKf3dfjFpUSJfkBDu9stb3oiO8QW8rmHnUKnHhoemf-YSyu0dx5lqgkasIeuZ0#keepProtocol",
+      "publishedAt": "2024-02-29T12:00:00Z",
+      "content": "As of 2023, there are over 26.5 million ecommerce websites around the world. Talk about a competitive industry.\r\nIts hard not to be intimidated by the sheer number of ecommerce sites shoppers have to… [+11027 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hubspot.com" },
+      "author": "mvolpe.hubspot@gmail.com (Mike Volpe)",
+      "title": "SEO Step-by-Step Tutorial: 8 Easy Basics for Beginners to Master",
+      "description": "You want to learn about search engine optimization (SEO), but where do you start? You’ve probably heard of a few basic terms, like keyword research, but what else do you need to know?",
+      "url": "https://blog.hubspot.com/marketing/tabid/6307/bid/1436/shortest-tutorial-ever-on-seo-search-engine-optimization.aspx#article",
+      "urlToImage": "https://blog.hubspot.com/hubfs/learn%20SEO.png#keepProtocol",
+      "publishedAt": "2024-02-07T12:00:00Z",
+      "content": "You want to learn about search engine optimization (SEO), but where do you start? Youve probably heard of a few basic terms, like keyword research, but what else do you need to know?\r\nI this post, I'… [+14858 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Kevin Indig",
+      "title": "Universe: A Better Alternative To Keyword Research via @sejournal, @Kevin_Indig",
+      "description": "Upgrade your keyword research strategy with a Keyword Universe. Build a pool of impactful keywords to prioritize content creation and optimize your SEO strategy.\nThe post Universe: A Better Alternative To Keyword Research appeared first on Search Engine Journ…",
+      "url": "https://www.searchenginejournal.com/universe-a-better-alternative-to-keyword-research/509466/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/Kevin_Indig_week1_FI.jpg",
+      "publishedAt": "2024-02-28T11:00:58Z",
+      "content": "Boost your skills with Growth Memo’s weekly expert insights. Subscribe for free!\r\nThe classic approach to keyword research is outdated. Instead of doing a sprint every so often, build a keyword unive… [+7415 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "tips@androidcentral.com (Nickolas Diaz)",
+      "title": "The Google Pay app is shutting down later this year",
+      "description": "Google announced it will shut down \"Google Pay\" in the U.S. as it urges users to utilize Wallet.",
+      "url": "https://www.androidcentral.com/apps-software/google-pay-changes-june-shutdown-announced",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/z6tvCEtF9C5BiHta3vMEoh-1200-80.jpeg",
+      "publishedAt": "2024-02-22T20:34:46Z",
+      "content": "<ul><li>Google announces that it will shutdown its U.S.-based \"Google Pay\" app on June 4, 2024.</li><li>Users will lose the ability to view shopping deals in the app while also being unable to send, … [+2131 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Alexmolas.com" },
+      "author": null,
+      "title": "A search engine in 80 lines of Python",
+      "description": "In this post I explain how I built a search engine from scratch using python. The resulting search engine is used to search in the posts of the blogs I follow.",
+      "url": "https://www.alexmolas.com/2024/02/05/a-search-engine-in-80-lines.html",
+      "urlToImage": null,
+      "publishedAt": "2024-02-07T19:28:05Z",
+      "content": "A search engine in 80 lines of Python\r\nA search engine in 80 lines of Python\r\nFebruary 05, 2024 · \r\n26 mins · 4718 words\r\nLast September I hopped on board with Wallapop as a Search Data Scientist and… [+17074 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "tips@androidcentral.com (Nickolas Diaz)",
+      "title": "Google announces Gemini 1.5 as it seeks the 'next generation' of AI",
+      "description": "More \"tokens\" means Gemini 1.5 Pro can handle much more data, outputting greater relevancy and more.",
+      "url": "https://www.androidcentral.com/apps-software/google-gemini-1-5-next-gen-ai-model",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/CWkqBjQwgmSW9hT6fCrVL-1200-80.jpg",
+      "publishedAt": "2024-02-15T18:36:52Z",
+      "content": "<ul><li>Google announces the arrival of its \"next generation\" AI model, Gemini 1.5, which will arrive in \"early testing\" fashion.</li><li>To begin testing, Gemini 1.5 Pro will be made available to de… [+2674 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "tips@androidcentral.com (Nickolas Diaz)",
+      "title": "Google's new Gen AI in Maps can help you find places to go and things to do",
+      "description": "Google detailed a few new generative AI-backed features that will soon arrive for a select few users in the U.S.",
+      "url": "https://www.androidcentral.com/apps-software/google-details-gen-ai-search-maps",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/hFR48buiix3bdGhANJNSJ6-1200-80.jpg",
+      "publishedAt": "2024-02-01T21:21:01Z",
+      "content": "<ul><li>Google states new generative AI-backed search capabilities will soon arrive for \"select\" Local Guides in the U.S.</li><li>The AI can help users find locations based on their queries or pre-ma… [+2566 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Central" },
+      "author": "tips@androidcentral.com (Nickolas Diaz)",
+      "title": "'Gemini Enterprise' launches amid Google One's new 'AI Premium' plan",
+      "description": "Google highlighted Gemini additions made for its Enterprise and Business customers, alongside more for Google One.",
+      "url": "https://www.androidcentral.com/apps-software/google-gemini-workspace-enterprise-business-rollout",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/QUuejB6p5fokJUFyse3swb-1200-80.jpg",
+      "publishedAt": "2024-02-21T19:15:59Z",
+      "content": "<ul><li>Google One announces it has removed its previous Duet AI Premium plan in favor of an \"AI Premium\" tier with Gemini Advanced.</li><li>The plan will cost customers $19.99 a month and brings Gem… [+2627 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "pkafka@insider.com (Peter Kafka)",
+      "title": "The Super Bowl is still definitely happening at 6:30 ET — and we're still writing these stories?",
+      "description": "What time is the Super Bowl? Either you already know or don't care. But publishers are still doing their best to get your SEO-fueled clicks.",
+      "url": "https://www.businessinsider.com/what-time-is-super-bowl-why-do-we-write-this-2024-2",
+      "urlToImage": "https://i.insider.com/65c54ecd917a1dae0244b93f?width=1200&format=jpeg",
+      "publishedAt": "2024-02-09T13:10:10Z",
+      "content": "The Super Bowl starts at 6:30 p.m. Eastern on Sunday when the Kansas City Chiefs play the San Francisco 49ers. CBS will broadcast the event, which will be played at Allegiant Stadium in Las Vegas, Ne… [+3456 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Justin Golden",
+      "title": "Google Ads Checklist: 5 Ways To Audit & Optimize Your Campaigns To Boost Results",
+      "description": "Boost your Google Ads success with expert tips! Audit, optimize, and target the right audience to maximize ROI and conversions.\nThe post Google Ads Checklist: 5 Ways To Audit & Optimize Your Campaigns To Boost Results appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/google-ads-audit-optimize-thatppcguy-spa/509185/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/Featured-2.jpg",
+      "publishedAt": "2024-02-28T06:00:40Z",
+      "content": "This post was sponsored by That PPC Guy. The opinions expressed in this article are the sponsor’s own.\r\nGoogle Ads campaigns not yielding the desired results?\r\nWant to turn things around, but don’t q… [+8723 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MacRumors" },
+      "author": "Tim Hardwick",
+      "title": "10 Hidden Messages Features in iOS 17",
+      "description": "If you're an ‌‌iPhone‌‌ user you know how the Messages app works. But when Apple released iOS 17 last year, it introduced an overhauled interface for the Messages app that includes several useful hidden functions and customization options that might not be ob…",
+      "url": "https://www.macrumors.com/guide/10-hidden-messages-features-in-ios-17/",
+      "urlToImage": "https://images.macrumors.com/t/qbNglyKk-YJxp53smHlzQxlEae4=/2250x/article-new/2023/07/iOS-17-Messages-Feature.jpg",
+      "publishedAt": "2024-02-17T12:01:14Z",
+      "content": "If you're an iPhone user you know how the Messages app works. But when Apple released iOS 17 last year, it introduced an overhauled interface for the Messages app that includes several useful hidden … [+8188 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Betterprogramming.pub" },
+      "author": "Peter Norvig",
+      "title": "Peter Norvig: New Python Operators",
+      "description": "The new “walrus operator” in Python 3.8, written as :=, has been much discussed. This post introduces additional whimsically-named multi-character operators. They are available as of today, April 1…",
+      "url": "https://betterprogramming.pub/new-python-operators-9f31b56ddcc7",
+      "urlToImage": "https://miro.medium.com/v2/resize:fit:1000/1*t6-Yt7--nG2uT2M_8E6PeQ.png",
+      "publishedAt": "2024-02-19T20:29:05Z",
+      "content": "Walrus Operator :=\r\nThe new walrus operator in Python 3.8, written as :=, has been much discussed. This post introduces additional whimsically-named multi-character operators. They are available as o… [+2830 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Charlie Hall",
+      "title": "Magic’s megaton reveal of Ravages of War sets this Fallout set apart",
+      "description": "Magic: The Gathering’s Fallout set will bring back the devastating Ravages of War card, which nukes every single land card on the table.",
+      "url": "https://www.polygon.com/24078242/mtg-fallout-ravages-of-war-card-previews",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/dLn3bOwWiVv4UrsPKbdePn9DVrs=/0x83:3000x1654/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25295631/Ravages_of_War_copy_cropped.jpg",
+      "publishedAt": "2024-02-20T18:49:13Z",
+      "content": "Magic: The Gatherings mega-popular Universes Beyond collection has already traveled the cosmos with Doctor Who, waged battle across Middle-earth in search of the One Ring, and dropped in on a few rou… [+3495 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Brooke Osmundson",
+      "title": "7 Google Ads Shortcuts For Better Results With Less Effort via @sejournal, @brookeosmundson",
+      "description": "Use these seven Google Ads shortcuts to help you save time, get faster insights, and be on your way to better PPC results.\nThe post 7 Google Ads Shortcuts For Better Results With Less Effort appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/google-ads-shortcuts-better-results-less-effort/503104/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2023/12/google-ads-shortcuts-657ae7d0dbc61-sej.png",
+      "publishedAt": "2024-02-01T09:00:51Z",
+      "content": "PPC management can suck up some major time if you’re focusing on elements that don’t matter, unnecessarily bloating your account, or skipping time-saving tools.\r\nThese seven Google Ads shortcuts and … [+11173 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "Keyword Research for SEO: What It Is & How to Do It",
+      "description": "You can do keyword research by looking at search suggestions in Google or using a keyword research tool.",
+      "url": "https://www.semrush.com/blog/keyword-research/",
+      "urlToImage": "https://static.semrush.com/blog/uploads/media/16/d6/16d60d27f2798c0607a73f676ab64eab/the-ultimate-keyword-research-guide-for-seo-sm.png",
+      "publishedAt": "2024-02-28T10:54:00Z",
+      "content": "What Is Keyword Research?\r\nKeyword research is the process of finding and analyzing what relevant audiences search for in search engines like Google. So you can create content thats more likely to ra… [+24170 chars]"
+    },
+    {
+      "source": { "id": null, "name": "9to5Mac" },
+      "author": "Benjamin Mayo",
+      "title": "Apple Search Ads expands to Brazil and eight more countries",
+      "description": "Apple Search Ads is launching soon in more countries, expanding into the Latin America region. Ads will soon start appearing in the App Store for Brazil, Bolivia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Panama and Paraguay. \n\n\n\nThat …",
+      "url": "https://9to5mac.com/2024/02/22/apple-search-ads-expands-to-brazil-and-eight-more-countries/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/apple-search-ads-header.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-02-22T15:00:00Z",
+      "content": "Apple Search Ads is launching soon in more countries, expanding into the Latin America region. Ads will soon start appearing in the App Store for Brazil, Bolivia, Costa Rica, Dominican Republic, El S… [+2028 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Roger Montti",
+      "title": "Does AI Democratize SEO Or Amplify Incompetence? via @sejournal, @martinibuster",
+      "description": "This what AI can realistically do for SEO and what should be expected in terms of results\nThe post Does AI Democratize SEO Or Amplify Incompetence? appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/does-ai-democratize-seo-or-amplify-incompetence/509315/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/ai-for-seo.jpg",
+      "publishedAt": "2024-02-26T10:56:13Z",
+      "content": "Generative AI has introduced significant shifts in the SEO industry with some experiencing success integrating SEO into the daily workflow while others not so much. How is AI best used in SEO tasks, … [+5786 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "STAT Search Analytics",
+      "title": "Impactful SEO Reporting: 7 Tips For Effective SEO Reports That Build Buy-In via @sejournal, @getstat",
+      "description": "This post was sponsored by STAT Search Analytics. The opinions expressed in this article are the sponsor’s own. Wondering how to get more SEO budget in 2024? Hoping to build a more robust SEO strategy that involves teams and multi-level buy-in? The answer lie…",
+      "url": "https://www.searchenginejournal.com/stat-impactful-seo-reporting-spa/506178/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/01/sej-sponsored-article-feature-image-1600x840-65aff7507f8dc-sej.png",
+      "publishedAt": "2024-02-13T06:00:38Z",
+      "content": "This post was sponsored by STAT Search Analytics. The opinions expressed in this article are the sponsor’s own.\r\nWondering how to get more SEO budget in 2024?\r\nHoping to build a more robust SEO strat… [+9102 chars]"
+    },
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": "Craig Hale",
+      "title": "Mozilla scaling back VPN, relay and more as it downsizes, lays off 60 workers",
+      "description": "Job cuts and reduced investments will see Mozilla shift its focus back to Firefox and 2024’s keyword: AI.",
+      "url": "https://www.techradar.com/pro/mozilla-scaling-back-vpn-relay-and-more-as-it-downsizes-lays-off-60-workers",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/2ge4cUnYpXx3bRAFfYd8kd-1200-80.jpg",
+      "publishedAt": "2024-02-14T10:03:16Z",
+      "content": "After Mitchell Baker’s second resignation as CEO, and under the leadership of new interim CEO Laura Chambers, Mozilla has revealed significant changes to its business that will affect both workers an… [+2073 chars]"
+    },
+    {
+      "source": { "id": null, "name": "GameSpot" },
+      "author": "Steve Watts",
+      "title": "Hearthstone's 10th Anniversary Plans Include A Big New Expansion, Tons Of Free Nostalgic Gifts",
+      "description": "The next expansion for Hearthstone is coming right alongside the game's 10th anniversary, and Blizzard has outlined its plans for both special occasions. The game will host a ton of in-game events on and around the official anniversary on March 11. Then, on M…",
+      "url": "https://www.gamespot.com/articles/hearthstones-10th-anniversary-plans-include-a-big-new-expansion-tons-of-free-nostalgic-gifts/1100-6521044/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1585/15855271/4258713-hs29p0_whizbang_keyart_color_final_withlogo.png",
+      "publishedAt": "2024-02-13T18:35:00Z",
+      "content": "The next expansion for Hearthstone is coming right alongside the game's 10th anniversary, and Blizzard has outlined its plans for both special occasions. The game will host a ton of in-game events on… [+3217 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "STAT Search Analytics",
+      "title": "Impactful SEO Reporting: 7 Tips For Effective SEO Reports That Build Buy-In via @sejournal, @getstat",
+      "description": "Wondering how to get more SEO budget in 2024? Learn how to create SEO reports that build trust with decision-makers and stakeholders.\nThe post Impactful SEO Reporting: 7 Tips For Effective SEO Reports That Build Buy-In appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/stat-impactful-seo-reporting-stat-spa/506178/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/01/sej-sponsored-article-feature-image-1600x840-65aff7507f8dc-sej.png",
+      "publishedAt": "2024-02-13T06:00:38Z",
+      "content": "This post was sponsored by STAT Search Analytics. The opinions expressed in this article are the sponsor’s own.\r\nWondering how to get more SEO budget in 2024?\r\nHoping to build a more robust SEO strat… [+9102 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Lightroomkillertips.com" },
+      "author": "Scott Kelby",
+      "title": "How Lightroom Classic Users can do a Visual Search (cooler than it sounds)",
+      "description": "Last night, I was a guest on this week’s KelbyOne Community Live (hosted by the awesome Chicky Nando), and the topic was my SLIM System course that just went online (SLIM stands for “Simplified Lightroom Image Management” System). Anyway, I’ll talk more about…",
+      "url": "https://lightroomkillertips.com/how-lightroom-classic-users-can-do-a-visual-search-cooler-than-it-sounds/",
+      "urlToImage": "https://lightroomkillertips.com/wp-content/uploads/2024/02/Carefe.jpg",
+      "publishedAt": "2024-02-09T08:16:00Z",
+      "content": "Last night, I was a guest on this week’s KelbyOne Community Live (hosted by the awesome Chicky Nando), and the topic was my SLIM System course that just went online (SLIM stands for “Simplified Light… [+2935 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "Keyword Analysis for SEO: What It Is & How to Do It",
+      "description": "SEO keyword analysis helps you identify the best unpaid ranking opportunities for your business.",
+      "url": "https://www.semrush.com/blog/keyword-analysis/",
+      "urlToImage": "https://static.semrush.com/blog/uploads/media/f0/73/f0738393047cf7785c9f95b603010645/keyword-analysis-for-seo-sm.png",
+      "publishedAt": "2024-02-19T09:42:00Z",
+      "content": "What Is Keyword Analysis?\r\nKeyword analysis is the process of evaluating queries people type into search engines to identify and prioritize search terms you want to rank forand use them more effectiv… [+10957 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Wwwhatsnew.com" },
+      "author": "Juan Diego Polo",
+      "title": "Qué herramientas debes usar para mejorar tu tienda online",
+      "description": "Si trabajas en el mundo del comercio electrónico, la visibilidad en línea y el posicionamiento en los motores de búsqueda son cruciales para el éxito. La optimización para motores de búsqueda (SEO) es una pieza fundamental de esta ecuación, y elegir las herra…",
+      "url": "https://wwwhatsnew.com/2024/02/13/que-herramientas-debes-usar-para-mejorar-tu-tienda-online/",
+      "urlToImage": "https://wwwhatsnew.com/wp-content/uploads/2024/02/seo-ecommerce.jpg",
+      "publishedAt": "2024-02-13T07:00:40Z",
+      "content": "Si trabajas en el mundo del comercio electrónico, la visibilidad en línea y el posicionamiento en los motores de búsqueda son cruciales para el éxito. La optimización para motores de búsqueda (SEO) e… [+3585 chars]"
+    },
+    {
+      "source": { "id": null, "name": "heise online" },
+      "author": "Andreas Wilkens",
+      "title": "Wie Meta gegen Wahleinmischung und Wählerbetrug zur Europawahl vorgehen will",
+      "description": "Im Juni wird das Europaparlament gewählt. Wie Fake-News und andere manipulative Inhalte auf Facebook, Instagram und Threads verhindert werden sollen.",
+      "url": "https://www.heise.de/news/Wie-Meta-gegen-Wahleinmischung-und-Waehlerbetrug-zur-Europawahl-vorgehen-will-9639048.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/4/8/0/2/2/false-06a85a2298940afc.jpg",
+      "publishedAt": "2024-02-26T11:56:00Z",
+      "content": "Meta bereitet sich auf die Europawahl im Juni dieses Jahres vor. Dabei geht es dem Mutterkonzern von Facebook, Threads und Instagram vor allem darum, Wahleinmischung und Wählerbetrug auf seinen Platt… [+3302 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "What Is Keyword Bidding? A Step-by-Step Guide for Beginners",
+      "description": "Learn the basics of how keyword bidding works, steps to set up bidding, and strategies to get started.",
+      "url": "https://www.semrush.com/blog/keyword-bidding/",
+      "urlToImage": "",
+      "publishedAt": "2024-02-13T12:24:00Z",
+      "content": "What Is Keyword Bidding?\r\nA keyword bid or pay-per-click (PPC) bid is the amount of money advertisers are willing to pay for their ad to rank for a specific keyword. \r\nThink of it as a split-second a… [+20726 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Impress.co.jp" },
+      "author": null,
+      "title": "iPhone版「Google Chrome」で何ができる？　グーグルが便利な機能を紹介",
+      "description": "グーグル（Google）のChromeグループ プロダクトマネージャー ナシム セダハット（Nasim Sedaghat）氏は、同社の公式ブログ「The Keyword」でiOS版のGoogle Chromeで安心、便利に利用できる機能を紹介している。",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/1569000.html",
+      "urlToImage": "https://k-tai.watch.impress.co.jp/img/ktw/list/1569/000/cont0.jpg",
+      "publishedAt": "2024-02-15T04:16:59Z",
+      "content": "GoogleChrome Nasim SedaghatThe KeywordiOSGoogle Chrome \r\n iPhoneiPadWindows \r\n GoogleWeb"
+    },
+    {
+      "source": { "id": null, "name": "Dantleech.com" },
+      "author": null,
+      "title": "My PHP Problems",
+      "description": "Comments",
+      "url": "https://www.dantleech.com/blog/2024/02/18/my-php-problems/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-19T10:22:10Z",
+      "content": "For the past months I’ve been keeping a list of things I encountered in PHP\r\nthat I’ve found to be problematic, or in other words things that annoy\r\nme.\r\nme having problems and being annoyed\r\nThis is… [+13292 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Kurt Knutsson, CyberGuy Report",
+      "title": "How this ex-Apple guy’s AI glasses invention works",
+      "description": "Frame glasses are smart glasses with a multimodal AI assistant that can recognize, translate and search anything you see or hear. Kurt “CyberGuy\" Knutsson gives you a sneak peek.",
+      "url": "https://www.foxnews.com/tech/how-this-ex-apple-guys-ai-glasses-invention-works",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/02/7-The-AI-glasses-that-let-you-see-the-world-in-a-whole-new-way.jpg",
+      "publishedAt": "2024-02-21T11:00:25Z",
+      "content": "Imagine being able to see the world through the eyes of an AI. You would be able to instantly recognize any object, person or place, translate any language, get nutritional facts, search the web and … [+5445 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Nels.onl" },
+      "author": null,
+      "title": "Maybe Everything Is a Coroutine",
+      "description": "I was inspired, after reading the excellent blog post Let Futures Be Futures, by the author's thought experiment of a language in which all functions are coroutines and this is used to express asynchr…",
+      "url": "https://adam.nels.onl//blog/maybe-everything-is-a-coroutine/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-13T12:54:47Z",
+      "content": "I was inspired, after reading the excellent blog post Let Futures Be\r\nFutures, by the author's\r\nthought experiment of a language in which all functions are coroutines and this\r\nis used to express asy… [+10355 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Small Business Trends" },
+      "author": "Antony Maina",
+      "title": "What is Spamming? Hint: It Involves More Than Just Email",
+      "description": "While you may believe you know the answer to, \"What is spamming?\", there are many types of spamming and not one of the varieties comes in a can.",
+      "url": "https://smallbiztrends.com/2023/09/what-is-spamming.html",
+      "urlToImage": "https://media.smallbiztrends.com/2023/09/mobile-spam-messages.png",
+      "publishedAt": "2024-02-21T15:42:27Z",
+      "content": "When we ask, What is spamming?, the immediate image that springs to mind for many are those pesky emails overflowing our inboxes with promises of easy money and get-rich-quick schemes.\r\nHowever, ther… [+13677 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Lisa Raehsler",
+      "title": "12 Hidden PPC Features You Should Know About via @sejournal, @LisaRocksSEM",
+      "description": "Elevate your ad game with hidden optimizations in Google Ads and Microsoft Ads for enhanced campaign performance and efficiency. \nThe post 12 Hidden PPC Features You Should Know About appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/hidden-ppc-features-2/505776/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/01/ppc-ad-manager-65ba015990fb5-sej.png",
+      "publishedAt": "2024-02-14T10:30:08Z",
+      "content": "Deep in the PPC ad platforms, there are plenty of hidden features that can improve performance and ease the management of ad campaigns.Some features are “opt-outs” that are valuable for optimizations… [+10632 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Aleh Barysevich",
+      "title": "Google’s Gemini Decoded: Unveiling The Impact On SEO via @sejournal, @ab80",
+      "description": "Explore why Google Gemini may transform the SEO industry. Learn how its improved multimodality and unlimited capabilities affect SERPs, rankings, content, and ranking factors.\nThe post Google’s Gemini Decoded: Unveiling The Impact On SEO appeared first on Sea…",
+      "url": "https://www.searchenginejournal.com/googles-gemini-impact-on-seo/506610/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/untitled-design-84-65c213f8bae47-sej.png",
+      "publishedAt": "2024-02-27T09:15:15Z",
+      "content": "Google has announced Gemini, a new super-powerful AI model that it claims will be a game-changer in the SEO and search industry.\r\nAccording to Google, Gemini AI is much more powerful than ChatGPT and… [+9147 chars]"
+    },
+    {
+      "source": { "id": null, "name": "SitePoint" },
+      "author": "Dianne Pena",
+      "title": "Unleash Your Website’s Potential: Top 5 SEO Tools of 2024",
+      "description": "Discover the pros and cons of the top SEO tools of 2024. This article provides the essential details you need to choose.\n \n Continue reading\n Unleash Your Website’s Potential: Top 5 SEO Tools of 2024\n on SitePoint.",
+      "url": "https://www.sitepoint.com/top-seo-tools/",
+      "urlToImage": "https://uploads.sitepoint.com/wp-content/uploads/2024/02/1708579879seo-tools.jpg",
+      "publishedAt": "2024-02-22T23:00:09Z",
+      "content": "Discover the capabilities, costs, and user experiences of the top 5 SEO tools of 2024. This article provides the essential details you need to decide which tool aligns with your goals for website opt… [+10126 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yoast.com" },
+      "author": "Edwin Toonen",
+      "title": "Perfect prompts: 10 tips for AI-driven SEO content creation",
+      "description": "The art of content creation has become increasingly sophisticated. The key to standing out is to produce high-quality content. You should craft it precisely, making it both engaging for readers and friendly to search engines. This is where AI-powered content …",
+      "url": "https://yoast.com/perfect-prompts-ai-seo-content/",
+      "urlToImage": "https://yoast.com/app/uploads/2024/02/yoast-ai-prompts-og.png",
+      "publishedAt": "2024-02-28T14:40:05Z",
+      "content": "The art of content creation has become increasingly sophisticated. The key to standing out is to produce high-quality content. You should craft it precisely, making it both engaging for readers and f… [+17777 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hubspot.com" },
+      "author": "Erin Pennings",
+      "title": "How Your JavaScript Can Benefit Your SEO",
+      "description": "If you’ve ever been to a stunning, interactive website that makes you simultaneously want to throw confetti in the air and share it with your friends, there’s a good chance it was built with JavaScript.",
+      "url": "https://blog.hubspot.com/marketing/javascript-seo#article",
+      "urlToImage": "https://blog.hubspot.com/hubfs/javascript-Feb-15-2024-09-13-37-7175-PM.png#keepProtocol",
+      "publishedAt": "2024-02-22T12:00:00Z",
+      "content": "If youve ever been to a stunning, interactive website that makes you simultaneously want to throw confetti in the air and share it with your friends, theres a good chance it was built with JavaScript… [+12324 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Greg Jarboe",
+      "title": "7 Strategic SEO Insights & Tactical Tips For 2024 And Beyond via @sejournal, @gregjarboe",
+      "description": "Tackle your SEO with confidence. Read on for insights & tactical tips curated for success this year & beyond.\nThe post 7 Strategic SEO Insights & Tactical Tips For 2024 And Beyond appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/strategic-insights-tactical-tips-seo/507313/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/strategic-tactical-tips-seo-65c22e7ec3c9e-sej.png",
+      "publishedAt": "2024-02-22T09:00:28Z",
+      "content": "I’ve been writing about search engine optimization (SEO) for more than 20 years.\r\nLooking back, I realize actionable SEO insights need to be thoroughly updated in this era of constant change.\r\nCircum… [+17348 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hubspot.com" },
+      "author": "Erin Pennings",
+      "title": "Everything You Need to Know About Google Search Essentials (formerly Google Webmaster Guidelines)",
+      "description": "One of the most important parts of having a website is making sure your audience can find your site (and find what they’re looking for). \nThe good news is that Google Search Essentials, formerly called Google Webmaster Guidelines, simplifies the process of op…",
+      "url": "https://blog.hubspot.com/marketing/webmaster-guidelines#article",
+      "urlToImage": "https://blog.hubspot.com/hubfs/seo%20audit.png#keepProtocol",
+      "publishedAt": "2024-02-21T12:00:00Z",
+      "content": "One of the most important parts of having a website is making sure your audience can find your site (and find what theyre looking for).\r\nThe good news is that Google Search Essentials, formerly calle… [+16864 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Uri Samet, Forbes Councils Member, \n Uri Samet, Forbes Councils Member\n https://www.forbes.com/sites/forbesagencycouncil/people/urisamet/",
+      "title": "6 Ways To Maximize Your App Store Optimization Efforts In 2024",
+      "description": "As the digital landscape evolves and app market saturation intensifies, the importance of ASO cannot be overstated.",
+      "url": "https://www.forbes.com/sites/forbesagencycouncil/2024/02/12/6-ways-to-maximize-your-app-store-optimization-efforts-in-2024/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/641dad5bee60b83789580d4a/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-02-12T12:15:00Z",
+      "content": "Uri Samet is the CEO of Buzz Dealer, a digital marketing firm specializes in organic traffic optimization, SEO, ASO, Digital PR and ORM.\r\ngetty\r\nApp store optimization (ASO) has become pivotal in dic… [+6613 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Pulsar17.me" },
+      "author": "Ishaan Arora",
+      "title": "Getting Help [in Python]",
+      "description": "pulsar17's blog",
+      "url": "https://pulsar17.me/2024/02/ongettinghelp",
+      "urlToImage": "https://pulsar17.me/images/panda_og.png",
+      "publishedAt": "2024-02-26T07:31:47Z",
+      "content": "Context\r\nWhile I was travelling in the Delhi Metro for PyDelhi's February meetup, I was thinking about what I could present. For some time I have had this idea of looking into how the sleep() functio… [+4158 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Sarah Perez",
+      "title": "Fake app masquerading as password manager LastPass just pulled from App Store",
+      "description": "A fake app that was masquerading as password manager LastPass on the App Store has been removed, whether by Apple or the fake app's developer is yet",
+      "url": "https://techcrunch.com/2024/02/08/a-fake-app-masquerading-as-password-manager-lastpass-just-got-pulled-from-the-app-store/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/12/lastpass-smaller-2022.jpg?resize=1200,645",
+      "publishedAt": "2024-02-08T21:53:41Z",
+      "content": "A fake app that was masquerading as password manager LastPass on the App Store has been removed, whether by Apple or the fake app’s developer is yet unclear — Apple has not commented. The illegitimat… [+4028 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Noupe.com" },
+      "author": "Luke Babich",
+      "title": "Local SEO Tactics to Boost Your Small Business Visibility",
+      "description": "By now, you can’t swing a small business plan without hitting an article highlighting the importance of search engine optimization (SEO). SEO is that magical combination of keywords, links, and other relevant technological adjustments that make your website m…",
+      "url": "https://www.noupe.com/business-online/local-seo-tactics-to-boost-your-small-business-visibility.html",
+      "urlToImage": "https://www.noupe.com/wp-content/uploads/2024/02/brooke-cagle-8jp-6SjVibM-unsplash-scaled.jpg",
+      "publishedAt": "2024-02-20T15:26:57Z",
+      "content": "By now, you can't swing a small business plan without hitting an article highlighting the importance of search engine optimization (SEO). SEO is that magical combination of keywords, links, and other… [+7615 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Matt G. Southern",
+      "title": "Google Chrome Showing More Relevant Search Suggestions via @sejournal, @MattGSouthern",
+      "description": "Google launches new Chrome features providing enhanced search suggestions by leveraging crowdsourced data \nThe post Google Chrome Showing More Relevant Search Suggestions appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/google-chrome-showing-more-relevant-search-suggestions/509899/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/IMG_2024-02-29-131858.jpeg",
+      "publishedAt": "2024-02-29T18:23:42Z",
+      "content": "Google has released three new features for its Chrome web browser to provide more helpful and relevant search suggestions.\r\nThe features use Chrome’s access to aggregated user data to deliver crowdso… [+4174 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Socialmediaexplorer.com" },
+      "author": "Sitetrail Research Team",
+      "title": "Real Estate Sector SEO Opportunities in 2024: Insights from Digital Innovator Mark Huntley",
+      "description": "The real estate sector is poised for significant digital transformation in 2024, with SEO at the forefront of this change. Based on insights from digital innovator Mark Huntley, this article explores the evolving landscape of...read more\nThe post Real Estate …",
+      "url": "https://socialmediaexplorer.com/business-innovation-2/real-estate-sector-seo-opportunities-in-2024-insights-from-digital-innovator-mark-huntley/",
+      "urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2024/02/Real-Estate-Sector-SEO-Opportunities-in-2024-Insights-from-Digital-Innovator-Mark-Huntley.png",
+      "publishedAt": "2024-02-12T08:46:34Z",
+      "content": "The real estate sector is poised for significant digital transformation in 2024, with SEO at the forefront of this change. Based on insights from digital innovator Mark Huntley, this article explores… [+6181 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "CallRail",
+      "title": "Smart Paid Strategy: 4 Tips To Save You $4K In Monthly Ad Spend via @sejournal, @CallRail",
+      "description": "Optimize your marketing budget with top tools & tactics for reducing cost per lead and boosting ROI. Discover how to track paid strategy effectiveness.\nThe post Smart Paid Strategy: 4 Tips To Save You $4K In Monthly Ad Spend appeared first on Search Engine Jo…",
+      "url": "https://www.searchenginejournal.com/smart-paid-strategy-tips-callrail-spcs/507468/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/featured-image-65c3e01f14d9a-sej.jpg",
+      "publishedAt": "2024-02-14T18:20:34Z",
+      "content": "As a marketing agency, the bottom line for your clients comes down to how well you’re managing their budget.\r\nNo one likes the idea of wasted ad spend, but often, it can be hard to tell which funds a… [+8068 chars]"
+    },
+    {
+      "source": { "id": "vice-news", "name": "Vice News" },
+      "author": "Mack Lamoureux, chloe angyal",
+      "title": "Man Who Showed Father’s Decapitated Head in a YouTube Video Charged With Terrorism",
+      "description": "Police say that when they arrested Justin Mohn they found a USB drive with a folder that indicated he wanted to blow up Federal Buildings.",
+      "url": "https://www.vice.com/en/article/epv73w/man-who-showed-fathers-decapitated-head-in-a-youtube-video-charged-with-terrorism",
+      "urlToImage": "https://video-images.vice.com/articles/65cf91390f7962451e4e3535/lede/1708102011473-image-13.png?image-resize-opts=Y3JvcD0wLjc3MzN4dzowLjk0MDJ4aDswLjExNDF4dywwLjAyOTF4aCZyZXNpemU9MTIwMDoqJnJlc2l6ZT0xMjAwOio",
+      "publishedAt": "2024-02-16T17:24:07Z",
+      "content": "The Pennsylvania man who decapitated his father and displayed his head in a YouTube video in which he called for violence against government workers has been charged with terrorism. \r\nAfter allegedly… [+3812 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Practical Ecommerce" },
+      "author": "Ann Smarty",
+      "title": "How Google Uses Keywords",
+      "description": "Search results in 2024 are driven by users' intent. Keywords are often the best indicator. \nThe post How Google Uses Keywords appeared first on Practical Ecommerce.",
+      "url": "https://www.practicalecommerce.com/how-google-uses-keywords",
+      "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2024/01/How-Google-Uses-Keywords.jpg",
+      "publishedAt": "2024-02-01T11:00:35Z",
+      "content": "Years ago Google ranked organic results by exactly matching search queries to text on a web page. At the time, search engine optimization involved creating multiple pages containing all sorts of keyw… [+3749 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "YEC, Forbes Councils Member, \n YEC, Forbes Councils Member\n https://www.forbes.com/sites/theyec/",
+      "title": "Where You Rank Dictates How You Should Approach Your SEO Strategy",
+      "description": "To make sure you're approaching SEO properly, look at the rankings of your top keywords. Then, use that information to determine where you should invest your efforts.",
+      "url": "https://www.forbes.com/sites/theyec/2024/02/13/where-you-rank-dictates-how-you-should-approach-your-seo-strategy/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63175f70c52ec58bcf6a481f/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-02-13T12:00:00Z",
+      "content": "By Jason Khoo, the founder of Zupo, an SEO consulting agency helping construct powerful long-term SEO &amp; Digital PR strategies for clients.\r\ngetty\r\nNavigating SEO can be challenging for many, but … [+5154 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Dezeen" },
+      "author": "Cajsa Carlson",
+      "title": "South Korean brand Wekino collaborates with Note Design Studio for international launch",
+      "description": "Furniture brand Wekino has made its debut outside of South Korea, presenting a collection by six Korean design studios at Stockholm Furniture Fair that included worm-like book holders and a colourful amorphous mirror. Called Wekino With, the collection was ma…",
+      "url": "https://www.dezeen.com/2024/02/08/wekino-international-launch-note-design-studio/",
+      "urlToImage": "https://static.dezeen.com/uploads/2024/02/wekino-with-note-design-studio-stockholm-furniture-fair_dezeen_2364_col_sq3-600x600.jpg",
+      "publishedAt": "2024-02-08T09:00:02Z",
+      "content": "Furniture brand Wekino has made its debut outside of South Korea, presenting a collection by six Korean design studios at Stockholm Furniture Fair that included worm-like book holders and a colourful… [+4589 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Shuttle.rs" },
+      "author": "",
+      "title": "Async Rust in a Nutshell",
+      "description": "Exploring how async Rust works, async primitives and using async in Rust traits",
+      "url": "https://www.shuttle.rs/blog/2024/02/29/async-rust",
+      "urlToImage": "https://www.shuttle.rs//images/blog/async-rust-thumb.png",
+      "publishedAt": "2024-02-29T14:42:11Z",
+      "content": "Computers are just as fast as they can be. One way to speed up our programs is to do things in parallel, or concurrently. There is a fine distinction between those two terms. Parallel execution means… [+11566 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Techdirt" },
+      "author": "Tim Cushing",
+      "title": "Another Journalist Sues Over Raid Of The Marion County Newspaper’s Offices",
+      "description": "The colossal catastrophe that is the Marion County PD’s raid of a small town newspaper’s offices (along with a raid of the home of its 98-year-old co-owner [who died shortly thereafter]) continues to generate national (and international!) headlines. The PD cl…",
+      "url": "https://www.techdirt.com/2024/02/14/another-journalist-sues-over-raid-of-the-marion-county-newspapers-offices/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2024-02-14T23:49:11Z",
+      "content": "from the resigning-your-post-can't-make-lawsuits-go-away,-chief dept\r\nThe colossal catastrophe that is the Marion County PD’s raid of a small town newspaper’s offices (along with a raid of the home o… [+9729 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Gnu.org" },
+      "author": null,
+      "title": "Porting to GCC 14: C language issues",
+      "description": "Comments",
+      "url": "https://gcc.gnu.org/gcc-14/porting_to.html#c",
+      "urlToImage": null,
+      "publishedAt": "2024-02-19T13:43:32Z",
+      "content": "The GCC 14 release series differs from previous GCC releases in\r\na number of ways. Some of these are a result\r\nof bug fixing, and some old behaviors have been intentionally changed\r\nto support new st… [+16450 chars]"
+    },
+    {
+      "source": { "id": null, "name": "R-bloggers.com" },
+      "author": "Numbers around us",
+      "title": "R Solution for Excel Puzzles",
+      "description": "Puzzles no. 389–393PuzzlesAuthor: ExcelBIAll files (xlsx with puzzle and R with solution) for each and every puzzle are available on my Github. Enjoy.Puzzle #389Today’s task is again making graphic with numbers. We already made christmas trees, diamond...\n\n\nC…",
+      "url": "https://www.r-bloggers.com/2024/02/r-solution-for-excel-puzzles-12/",
+      "urlToImage": "https://cdn-images-1.medium.com/max/1024/1*KDvN9apjv2sySnpjgi5-5g.jpeg",
+      "publishedAt": "2024-02-19T17:18:14Z",
+      "content": "Puzzles no. 389393\r\nPuzzles\r\nAuthor: ExcelBI\r\nAll files (xlsx with puzzle and R with solution) for each and every puzzle are available on my Github. Enjoy.\r\nPuzzle #389\r\nTodays task is again making g… [+7578 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yoast.com" },
+      "author": "Florie van Hummel",
+      "title": "The SEO checklist for beginners",
+      "description": "SEO is a HUGE thing – and who doesn’t love a checklist? Although SEO work is never done, there are many things you can simply cross off the list to ensure you’re optimizing your website not just for people but for Google as well. Want to work on your site’s S…",
+      "url": "https://yoast.com/seo-checklist/",
+      "urlToImage": "https://yoast.com/app/uploads/2024/02/og-image-seo-checklist.jpg",
+      "publishedAt": "2024-02-15T16:28:37Z",
+      "content": "SEO is a HUGE thing – and who doesnt love a checklist? Although SEO work is never done, there are many things you can simply cross off the list to ensure youre optimizing your website not just for pe… [+9482 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Nick Zviadadze, Forbes Councils Member, \n Nick Zviadadze, Forbes Councils Member\n https://www.forbes.com/sites/forbesbusinesscouncil/people/nickzviadadze/",
+      "title": "Five Powerful SEO Techniques To Drive Traffic In 2024",
+      "description": "SEO techniques that worked a couple of years ago may have now turned ineffective, or can even hurt your rankings.",
+      "url": "https://www.forbes.com/sites/forbesbusinesscouncil/2024/02/22/five-powerful-seo-techniques-to-drive-traffic-in-2024/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/63d2851cf04d1b9194922d82/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-02-22T15:00:00Z",
+      "content": "Nick Zviadadze is the founder of MintSEO.com, an SEO and link-building agency.\r\ngetty\r\nSearch engine optimization (SEO) is one of the best ways to propel online success. In fact, 16% of marketers rep… [+5818 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "How to Start an Ecommerce Business: A Simple 7-Step Guide",
+      "description": "Learn how to start an ecommerce business by following our easy, step-by-step guide filled with expert tips.",
+      "url": "https://www.semrush.com/blog/how-to-start-an-ecommerce-business/",
+      "urlToImage": "",
+      "publishedAt": "2024-02-06T10:07:00Z",
+      "content": "Building a thriving ecommerce store demands hard work and dedication. Way before you set it up, you need to establish a solid foundation. \r\nIn this comprehensive guide, weve put together seven steps … [+23328 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "Google SEO: Best Practices to Help with Search Ranking",
+      "description": "Learn how Google SEO can boost your website visibility and attract more business opportunities.",
+      "url": "https://www.semrush.com/blog/google-seo/",
+      "urlToImage": "",
+      "publishedAt": "2024-02-15T12:07:00Z",
+      "content": "SEO vs. Google SEO\r\nSearch engine optimization (SEO) is all about improving your website's visibility and getting it to rank higher on search engine results pages.\r\nGoogle SEO refers to the practice … [+23444 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "Semantic Search: What It Is and Why It Matters for SEO",
+      "description": "Semantic search is how search engines understand human language and intent. Learn how to use it in SEO.",
+      "url": "https://www.semrush.com/blog/semantic-search/",
+      "urlToImage": "https://static.semrush.com/blog/uploads/media/b0/25/b0254586fce45f3e246e74bf769ee1e9/semantic-search-sm.png",
+      "publishedAt": "2024-02-22T13:38:00Z",
+      "content": "What Is Semantic Search?\r\nSemantic search refers to the process of how search engines understand and match keywords to a searchers intent in organic search results. \r\nBefore semantic search, search e… [+23669 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "How to Connect Google Search Console to Google Analytics 4",
+      "description": "Learn how to connect Google Search Console to GA4 to analyze your top search queries and landing pages.",
+      "url": "https://www.semrush.com/blog/connect-google-search-console-analytics/",
+      "urlToImage": "https://static.semrush.com/blog/uploads/media/d0/6e/d06ea23e2bdc4fec42b5ab403d8201ae/connect-google-search-console-analytics-sm.png",
+      "publishedAt": "2024-02-15T10:52:00Z",
+      "content": "You can connect Google Search Console to Google Analytics 4 (GA4) to get organic search data in your GA4 property.\r\nThe integration expands the level of detail you can get from Google Analytics. Once… [+13253 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Optimizedbyotto.com" },
+      "author": null,
+      "title": "Pulsar, the best code editor since Atom",
+      "description": "The key to being productive as a programmer is to have a great code editor. I have been an avid user of Atom since 2014, and its successor Pulsar since now in 2023.",
+      "url": "https://optimizedbyotto.com/post/pulsar-best-text-file-and-code-editor/",
+      "urlToImage": "https://optimizedbyotto.com/post/pulsar-best-text-file-and-code-editor/featured-pulsar-screenshot.png",
+      "publishedAt": "2024-02-20T01:23:38Z",
+      "content": "The key to being productive as a programmer is to have a great code editor. I have been an avid user of Atom since 2014, and its successor Pulsar since now in 2023.\r\nThe best code editor came from Gi… [+7131 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Alex Valencia",
+      "title": "How To Use Reverse Video Search (& Why It’s Useful) via @sejournal, @xandervalencia",
+      "description": "Learn how to use reverse video search with Google, Microsoft Bing, and more to credit sources and find more information about a video.\nThe post How To Use Reverse Video Search (& Why It’s Useful) appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/how-to-reverse-video-search/506160/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2022/09/untitled-design-18-632877f0c67f7-sej.png",
+      "publishedAt": "2024-02-27T10:00:02Z",
+      "content": "If you stumble across a cool video, knowing how to conduct a reverse video search can come in handy.\r\nYou might need to find the source of a video to reference in your content and give credit where c… [+10053 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Socialmediaexplorer.com" },
+      "author": "Sitetrail Research Team",
+      "title": "Mark Huntley’s Insights: Maximizing Education Sector SEO Opportunities in 2024",
+      "description": "The education sector is experiencing a digital revolution, making Search Engine Optimization (SEO) more critical than ever. As we move into 2024, staying ahead of the curve in SEO practices can significantly impact the visibility...read more\nThe post Mark Hun…",
+      "url": "https://socialmediaexplorer.com/content-marketing-2/mark-huntleys-insights-maximizing-education-sector-seo-opportunities-in-2024/",
+      "urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2024/02/Mark-Huntleys-Insights-Maximizing-Education-Sector-SEO-Opportunities-in-2024.png",
+      "publishedAt": "2024-02-12T10:13:16Z",
+      "content": "The education sector is experiencing a digital revolution, making Search Engine Optimization (SEO) more critical than ever. As we move into 2024, staying ahead of the curve in SEO practices can signi… [+5705 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Socialmediaexplorer.com" },
+      "author": "Sitetrail Research Team",
+      "title": "Unlocking Automotive Sector SEO Opportunities in 2024: Insights from Traffic Guru Mark Huntley",
+      "description": "The automotive sector continues to be a fiercely competitive space, especially when it comes to online visibility. As we move into 2024, staying ahead of the curve in search engine optimization (SEO) is more crucial...read more\nThe post Unlocking Automotive S…",
+      "url": "https://socialmediaexplorer.com/social-media-marketing/unlocking-automotive-sector-seo-opportunities-in-2024-insights-from-traffic-guru-mark-huntley/",
+      "urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2024/02/Unlocking-Automotive-Sector-SEO-Opportunities-in-2024-Insights-from-Traffic-Guru-Mark-Huntley.png",
+      "publishedAt": "2024-02-12T10:07:40Z",
+      "content": "The automotive sector continues to be a fiercely competitive space, especially when it comes to online visibility. As we move into 2024, staying ahead of the curve in search engine optimization (SEO)… [+5918 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Practical Ecommerce" },
+      "author": "Ann Smarty",
+      "title": "SEO Tools for YouTube Videos",
+      "description": "Elevating a video's organic search visibility on YouTube and Google involves keyword research, an optimized title and description, and structured data.\nThe post SEO Tools for YouTube Videos appeared first on Practical Ecommerce.",
+      "url": "https://www.practicalecommerce.com/seo-tools-for-youtube-videos",
+      "urlToImage": "https://www.practicalecommerce.com/wp-content/uploads/2024/02/SEO-Tools-for-YouTube-Videos.jpg",
+      "publishedAt": "2024-02-12T14:05:25Z",
+      "content": "Creating quality videos takes time and effort. Ensuring they are discoverable in organic search is often a missing step. Here are three tools to help.\r\nAhrefs\r\nA free tool in Ahrefs identifies keywor… [+2839 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Science Daily" },
+      "author": null,
+      "title": "Unlocking the energetic secrets of collective animal movement: How group behavior reduces energy costs in fish",
+      "description": "Researchers questioned if coordinated group movements by animals moving through a fluid could reduce the energy cost of locomotion. By combining biomechanics and bioenergetics the researchers found not only a significant amount of energy conservation, but als…",
+      "url": "https://www.sciencedaily.com/releases/2024/02/240220144513.htm",
+      "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+      "publishedAt": "2024-02-20T19:45:13Z",
+      "content": "Many animals, including apex predators, move in groups. We know this collective behavior is fundamental to the animal's ability to move in complex environments, but less is known about what drives th… [+5013 chars]"
+    },
+    {
+      "source": { "id": null, "name": "PetaPixel" },
+      "author": "Matt Growcoot",
+      "title": "Australian Portrait Prize to Allow AI Entries, ‘Art is Not Stagnant’",
+      "description": "A portrait competition in Australia that is open to photographers and artists will allow AI images to enter this year.\n[Read More]",
+      "url": "https://petapixel.com/2024/02/02/australian-portrait-prize-to-allow-ai-entries-art-is-not-stagnant/",
+      "urlToImage": "https://petapixel.com/assets/uploads/2024/02/AI-Photographer.jpg",
+      "publishedAt": "2024-02-02T11:26:11Z",
+      "content": "AI-generated via DALL-E.\r\nA portrait competition in Australia that is open to photographers and artists will allow AI images to enter this year. \r\nThe Brisbane Portrait Prize (BPP) was won by a photo… [+3036 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "14 Paid Search Best Practices for Success in 2024",
+      "description": "This guide to paid search best practices will help you drive more targeted traffic and generate a positive ROI.",
+      "url": "https://www.semrush.com/blog/paid-search-best-practices/",
+      "urlToImage": "https://static.semrush.com/blog/uploads/media/67/39/6739ee523d6bd481e9c7bcdea0e9d6e2/0 temp.png",
+      "publishedAt": "2024-02-28T11:33:00Z",
+      "content": "This is a complete guide to paid search best practices in 2024. \r\nSo, if you want to drive more targeted traffic to your site and generate a positive return on investment (ROI), youll love the practi… [+20833 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Hubspot.com" },
+      "author": "Precious Oboidhe",
+      "title": "Diving Deep Into Marketing for Dentists (My Takeaways)",
+      "description": "An avalanche of both booked and patient walk-ins is the dream of dental practitioners. But let’s be honest — getting these patients requires hard work because the dental industry is fiercely competitive.",
+      "url": "https://blog.hubspot.com/marketing/dental-marketing#article",
+      "urlToImage": "https://blog.hubspot.com/hubfs/dental-marketing.webp#keepProtocol",
+      "publishedAt": "2024-02-08T12:00:00Z",
+      "content": "An avalanche of both booked and patient walk-ins is the dream of dental practitioners. But lets be honest getting these patients requires hard work because the dental industry is fiercely competitive… [+18516 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Lee Wilson",
+      "title": "A Complete Guide To App Store Optimization (ASO) via @sejournal, @LWilson1980",
+      "description": "Discover the steps to maximize visibility in app stores with app store optimization! Learn how to succeed in Google Play & Apple App Store.\nThe post A Complete Guide To App Store Optimization (ASO) appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/app-store-optimization-complete-how-to-guide/506134/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/aso-65c493f31c02d-sej.jpg",
+      "publishedAt": "2024-02-21T10:00:28Z",
+      "content": "A mobile strategy is critical to your business presence, considering the saturation of mobile devices.\r\nThis is where app store optimization (ASO) comes into play.\r\nIn this article, you’ll learn:\r\n<u… [+28092 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Jennifer Nelson",
+      "title": "Be tenacious, flexible, and embrace your uniqueness: Advice for women starting a business from those who’ve been there",
+      "description": "Starting your own business is a considerable learning experience. Here’s some advice from female entrepreneurs breaking glass ceilings.",
+      "url": "https://www.marketwatch.com/story/be-tenacious-flexible-and-embrace-your-uniqueness-advice-for-women-starting-a-business-from-those-whove-been-there-d959394b",
+      "urlToImage": "https://images.mktw.net/im-23258791/social",
+      "publishedAt": "2024-02-20T09:59:00Z",
+      "content": "Starting your own business is a considerable learning experience and female entrepreneurs must quickly learn what does and doesnt work if they want to grow a company.The best advice I was given from … [+7428 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Toprankblog.com" },
+      "author": "Theresa Meis",
+      "title": "SEO Website Design: Building a Search-friendly Brand Hub",
+      "description": "Your brand’s website design might tick all the visually appealing boxes, but is it stunning to search engines? Effective SEO...\nThe post SEO Website Design: Building a Search-friendly Brand Hub appeared first on B2B Marketing Blog - TopRank®.",
+      "url": "https://www.toprankblog.com/2024/02/seo-website-design-building-a-search-friendly-brand-hub/",
+      "urlToImage": "https://www.toprankblog.com/wp-content/uploads/shutterstock_699634498-scaled.jpg",
+      "publishedAt": "2024-02-21T19:45:55Z",
+      "content": "Your brands website design might tick all the visually appealing boxes, but is it stunning to search engines?\r\nEffective SEO website design focuses on creating a user-friendly experience, encompassin… [+8298 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "SEO Leads: 12 Ways to Earn More SEO Clients",
+      "description": "Want more SEO leads? Learn how to generate SEO leads and turn them into clients with this detailed guide.",
+      "url": "https://www.semrush.com/blog/seo-leads/",
+      "urlToImage": "",
+      "publishedAt": "2024-02-15T12:44:00Z",
+      "content": "What Are SEO Leads?\r\nAn SEO lead is a business or individual interested in the SEO services you provide. \r\nSEO leads that turn into clients can drive your agency's growth. They help you build your po… [+19924 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MakeUseOf" },
+      "author": "Garling Wu",
+      "title": "How to Create Text in Midjourney Images (and Get Good Results)",
+      "description": "From typography design to billboards and signs, here's how to use Midjourney to create text.",
+      "url": "https://www.makeuseof.com/how-to-create-text-midjourney-ai-art/",
+      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/midjourney-image-of-a-billboard-painted-with-1970-world-fair.jpg",
+      "publishedAt": "2024-02-02T12:00:12Z",
+      "content": "Key Takeaways\r\n<ul><li> Midjourney v6 is the best model for generating text within images, with fewer workarounds needed. </li><li> Use quotation marks and logical prompts to add text to your images … [+4330 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MakeUseOf" },
+      "author": "Amir M. Bohlooli",
+      "title": "What Is a GIF? How (and When) to Use One",
+      "description": "Sprinkle some GIF magic into your online presence.",
+      "url": "https://www.makeuseof.com/what-is-a-gif-how-use-one/",
+      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/02/gif-logo-on-multicolor-background.jpg",
+      "publishedAt": "2024-02-25T20:01:12Z",
+      "content": "Key Takeaways\r\n<ul><li> GIFs are image files that can host multiple static images and play them in sequence, creating an animation. </li><li> GIFs are useful for adding humor, reacting to online cont… [+5034 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Jeffbullas.com" },
+      "author": "Guest Author",
+      "title": "How to Choose the Right SEO Agency For Your Business",
+      "description": "Choosing the right SEO agency is crucial for your business, and here's how you can make an informed decision.\nThe post How to Choose the Right SEO Agency For Your Business appeared first on Jeffbullas's Blog.",
+      "url": "https://www.jeffbullas.com/seo-agency/",
+      "urlToImage": "https://www.jeffbullas.com/wp-content/uploads/2024/02/seo-agency.jpg",
+      "publishedAt": "2024-02-02T02:34:17Z",
+      "content": "In an era where digital presence defines business success, Search Engine Optimization (SEO) has become more than just a marketing buzzword. \r\nTry these new AI-powered tools:\r\n<ul><li>Surfer helps you… [+14083 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Ben Steele",
+      "title": "Navigating SEO Disruption According To Experts via @sejournal, @BennyJamminS",
+      "description": "Discover expert analysis on upcoming disruptions in SEO and stay ahead of the game. Read an excerpt from SEJ's SEO Trends 2024 ebook.\nThe post Navigating SEO Disruption According To Experts appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/seo-trends/navigating-seo-disruption-according-to-experts/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/navigating-seo-disruption-according-to-experts-65ce136b9e563-sej.jpg",
+      "publishedAt": "2024-02-19T06:00:37Z",
+      "content": "This is an excerpt from SEJ’s SEO Trends 2024 ebook, our annual roundup of expert opinions on what you can expect over the course of the next 12 months. \r\nSeeing troubled waters ahead comes with appr… [+22516 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Jenn Mathews",
+      "title": "Navigating The SEO Career Landscape: Degrees, Myths, And Realities via @sejournal, @SEOGoddess",
+      "description": "Learn from a seasoned SEO professional about career paths, challenges, and opportunities for success in this indispensable industry.\nThe post Navigating The SEO Career Landscape: Degrees, Myths, And Realities appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/navigating-seo-career-landscape-degrees-myths-realities/506388/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/01/seo-career-65b23933bc379-sej.png",
+      "publishedAt": "2024-02-23T09:15:29Z",
+      "content": "In the dynamic realm of search engine optimization (SEO), my career spans nearly two decades, starting in 2004 when I started working for an agency and just two years later moved to in-house SEO for … [+17652 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Tomshw.it" },
+      "author": "Marco Pedrani",
+      "title": "Sapete perché i Chromebook hanno la tastiera con le minuscole? Ecco la risposta",
+      "description": "Se avete mai usato un Chromebook, vi sarete accorti di un dettaglio riguardante la tastiera: le lettere, a differenza di quanto accade su tutti gli altri portatili (e sulle tastiere in generale), sono...",
+      "url": "https://www.tomshw.it/hardware/sapete-perche-i-chromebook-hanno-la-tastiera-con-le-minuscole-ecco-la-risposta",
+      "urlToImage": "https://www.tomshw.it/storage/media/2024/02/13568/lenovo-ideapad-flex-5-chromebook-213039.webp",
+      "publishedAt": "2024-02-23T10:55:18Z",
+      "content": "Se avete mai usato un Chromebook, vi sarete accorti di un dettaglio riguardante la tastiera: le lettere, a differenza di quanto accade su tutti gli altri portatili (e sulle tastiere in generale), son… [+1715 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Socialmediaexplorer.com" },
+      "author": "Sitetrail Research Team",
+      "title": "Mark Huntley’s Analysis: Strategies for SEO Success in the Financial Sector, 2024",
+      "description": "SEO Meta Description: Explore the top finance sector SEO opportunities in 2024 with insights from digital innovator Mark Huntley. Learn how to leverage emerging trends and strategies to dominate the financial landscape. The finance sector...read more\nThe post…",
+      "url": "https://socialmediaexplorer.com/business-innovation-2/mark-huntleys-analysis-strategies-for-seo-success-in-the-financial-sector-2024/",
+      "urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2024/02/Mark-Huntleys-Analysis-Strategies-for-SEO-Success-in-the-Financial-Sector-2024.png",
+      "publishedAt": "2024-02-09T08:05:12Z",
+      "content": "SEO Meta Description: Explore the top finance sector SEO opportunities in 2024 with insights from digital innovator Mark Huntley. Learn how to leverage emerging trends and strategies to dominate the … [+7257 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Forbes" },
+      "author": "Karan Sharma, Forbes Councils Member, \n Karan Sharma, Forbes Councils Member\n https://www.forbes.com/sites/forbesagencycouncil/people/karansharma1/",
+      "title": "GEO: What It Is And How It Can Help Brands With Content Optimization",
+      "description": "A strategic shift in your approach to researching, writing and presenting content is all that is required for enhancing generative engine optimization efforts.",
+      "url": "https://www.forbes.com/sites/forbesagencycouncil/2024/02/09/geo-what-it-is-and-how-it-can-help-brands-with-content-optimization/",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/65c4cdeba3a742060762db58/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+      "publishedAt": "2024-02-09T12:30:00Z",
+      "content": "A digital commerce expert and the co-founder at Kinex Media Inc, a creative digital agency in Toronto.\r\ngetty\r\nGenerative artificial intelligence (AI) engines like ChatGPT and Bard have taken the spo… [+6669 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Small Business Trends" },
+      "author": "Nash Riggins",
+      "title": "What is Content Marketing?",
+      "description": "If you've ever wondered, \"What is content marketing\", then check out this primer on content marketing and the ways it can benefit your small business.",
+      "url": "https://smallbiztrends.com/2023/09/what-is-content-marketing.html",
+      "urlToImage": "https://media.smallbiztrends.com/2023/09/what-is-content-marketing-1-1024x576.png",
+      "publishedAt": "2024-02-16T13:45:15Z",
+      "content": "Like it or not, the dawn of the digital era has completely redefined the way companies engage with customers. The web is now awash with dime-a-dozen promotions, and it takes a lot more than an eye-ca… [+9899 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "The 24 Best Martech Tools for 2024",
+      "description": "Improve your marketing tech stack with the top martech tools on the market.",
+      "url": "https://www.semrush.com/blog/martech-tools/",
+      "urlToImage": "",
+      "publishedAt": "2024-02-13T16:37:00Z",
+      "content": "Looking for more tools to add to your marketing tech stack? Heres our guide to the best martech tools in 2024.\r\nMartech tools are software solutions designed to help businesses plan, organize, execut… [+28103 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Linkedin.com" },
+      "author": "David Chisnall",
+      "title": "I don't care about memory safety",
+      "description": "This might seem a strange thing for someone who has been working on hardware memory safety for over a decade to say, so perhaps I should clarify. I care about memory safety in the same way as I care about addition.",
+      "url": "https://www.linkedin.com/pulse/i-dont-care-memory-safety-david-chisnall",
+      "urlToImage": "https://static.licdn.com/aero-v1/sc/h/6dwv6w0gvj6q3ye8o19b99or2",
+      "publishedAt": "2024-02-09T17:11:35Z",
+      "content": "This might seem a strange thing for someone who has been working on hardware memory safety for over a decade to say, so perhaps I should clarify. I care about memory safety in the same way as I care … [+8523 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Dubroy.com" },
+      "author": "About",
+      "title": "Visualizing Packrat Parsing",
+      "description": "Comments",
+      "url": "https://dubroy.com/blog/visualizing-packrat-parsing/",
+      "urlToImage": null,
+      "publishedAt": "2024-02-15T05:47:25Z",
+      "content": "January 10, 2021\r\n Ohm is an open-source parsing toolkit for JavaScript which Alex Warth and I have been working on since 2014. You can use it to parse custom file formats or quickly build parsers, i… [+8268 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Substack.com" },
+      "author": "Yakko",
+      "title": "What the fuck is going on in Argentina?",
+      "description": "Patagonia Diaries #1",
+      "url": "https://memoirsandrambles.substack.com/p/what-the-fuck-is-going-on-in-argentina",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0727e44f-17a5-40ad-a152-50d30b527ba0_6000x4000.jpeg",
+      "publishedAt": "2024-02-21T12:12:53Z",
+      "content": "This piece is part of my Patagonia Diaries series about repeating a 16,000km roadtrip my parents did with me as a one year-old, where I share my reflections about myself and what I saw throughout the… [+9525 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Geoffreylitt.com" },
+      "author": null,
+      "title": "Browser extensions are underrated: the promise of hackable software",
+      "description": "In a world of closed platforms, browser extensions are the rare exception that let users modify the apps that we use.",
+      "url": "https://www.geoffreylitt.com/2019/07/29/browser-extensions",
+      "urlToImage": "https://geoffreylitt.com/images/article_images/legos.jpg",
+      "publishedAt": "2024-02-04T15:43:31Z",
+      "content": "Photo by Rick Mason on Unsplash\r\nRecent conversations about web browser extensions have focused on controversy: malicious browser extensions capturing web history, and Google limiting the capabilitie… [+10206 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Android Authority" },
+      "author": "Andy Walker",
+      "title": "Gemini Advanced explained: Availability, language support, and more",
+      "description": "Google's consumer AI products now fall under the Gemini umbrella, but what is Gemini Advanced? Learn everything about the generative AI here.",
+      "url": "https://www.androidauthority.com/google-gemini-advanced-3412078/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2023/05/Google-IO-2023-gemini.jpg",
+      "publishedAt": "2024-02-08T13:00:35Z",
+      "content": "Google is making big changes to its generative AI project Google Bard will now be known as Google Gemini. On the face of it, this is a mere rebrand that doesnt affect the core functionality of Google… [+3790 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Small Business Trends" },
+      "author": "Rob Starr",
+      "title": "How to Create an Inbound Marketing Plan + 26 Strategies",
+      "description": "Having the right inbound marketing plan will ensure your small business is able to capitalize on all the opportunities that come its way.",
+      "url": "https://smallbiztrends.com/2024/02/inbound-marketing-plan.html",
+      "urlToImage": "https://media.smallbiztrends.com/2024/01/inbound-marketing-plan-4.png",
+      "publishedAt": "2024-02-01T11:00:25Z",
+      "content": "Inbound marketing has gained center stage in the digital era. It represents a fundamental shift in how a small business looks at customer engagement. Changes in customer behaviors have fueled the mov… [+23117 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Small Business Trends" },
+      "author": "Rob Starr",
+      "title": "What is Cyber Monday? Benefits For Your Small Business",
+      "description": "What is Cyber Monday? Here's an overview of the basics as well as some marketing tips to get more visitors to your eCommerce page.",
+      "url": "https://smallbiztrends.com/2023/09/what-is-cyber-monday-small-business.html",
+      "urlToImage": "https://media.smallbiztrends.com/2018/11/shutterstock_192063296.png",
+      "publishedAt": "2024-02-16T14:36:26Z",
+      "content": "What is Cyber Monday? Cyber Monday, combined with Black Friday, is the beginning of the holiday shopping season. Its is a critical event. Heres some proof. Last year this part of the post-Thanksgivin… [+17157 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Searchenginepeople.com" },
+      "author": "Ruud Hein",
+      "title": "Online Competitors vs. Business Competitors in SEO Keyword Research",
+      "description": "In the digital age, the line between online and offline competition has blurred, but there's still a significant difference between...\nRead More...\nThe post Online Competitors vs. Business Competitors in SEO Keyword Research appeared first on Search Engine Pe…",
+      "url": "https://www.searchenginepeople.com/blog/online-competitors-vs-business-competitors-in-seo-keyword-research.html",
+      "urlToImage": "https://www.searchenginepeople.com/wp-content/uploads/2024/02/online-competition.webp",
+      "publishedAt": "2024-02-22T15:48:51Z",
+      "content": "In the digital age, the line between online and offline competition has blurred, but there's still a significant difference between the two. Some businesses might be your direct rivals on the high st… [+11144 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Socialmediaexplorer.com" },
+      "author": "Sitetrail Research Team",
+      "title": "Mark Huntley on Unlocking Healthcare Sector SEO Opportunities in 2024",
+      "description": "The healthcare sector is rapidly evolving, and with it, the strategies for effective Search Engine Optimization (SEO). As we step into 2024, the opportunities for enhancing visibility and engagement through SEO are more significant than...read more\nThe post M…",
+      "url": "https://socialmediaexplorer.com/business-innovation-2/mark-huntley-on-unlocking-healthcare-sector-seo-opportunities-in-2024/",
+      "urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2024/02/Mark-Huntley-on-Unlocking-Healthcare-Sector-SEO-Opportunities-in-2024.png",
+      "publishedAt": "2024-02-12T09:13:49Z",
+      "content": "The healthcare sector is rapidly evolving, and with it, the strategies for effective Search Engine Optimization (SEO). As we step into 2024, the opportunities for enhancing visibility and engagement … [+5908 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Socialmediaexplorer.com" },
+      "author": "Sitetrail Research Team",
+      "title": "Mark Huntley’s Outlook: Advancing SEO Strategies for the Tech Sector in 2024",
+      "description": "The technology sector is evolving at an unprecedented pace, and with it, the landscape of Search Engine Optimization (SEO) continues to transform. As we venture into 2024, staying ahead in the SEO game demands not...read more\nThe post Mark Huntley’s Outlook: …",
+      "url": "https://socialmediaexplorer.com/business-innovation-2/mark-huntleys-outlook-advancing-seo-strategies-for-the-tech-sector-in-2024/",
+      "urlToImage": "https://socialmediaexplorer.com/wp-content/uploads/2024/02/Mark-Huntleys-Outlook-Advancing-SEO-Strategies-for-the-Tech-Sector-in-2024.png",
+      "publishedAt": "2024-02-09T14:56:50Z",
+      "content": "The technology sector is evolving at an unprecedented pace, and with it, the landscape of Search Engine Optimization (SEO) continues to transform. As we venture into 2024, staying ahead in the SEO ga… [+5084 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Al Jazeera",
+      "title": "Meta unveils team to combat disinformation and AI harms in EU elections",
+      "description": "Tech giant's head of EU affairs says team will bring together experts from across the company.",
+      "url": "https://www.aljazeera.com/economy/2024/2/26/meta-unveils-team-to-combat-disinformation-and-ai-harms-in-eu-elections",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/02/2023-05-22T162526Z_1728425443_RC2Q31A1IXJ5_RTRMADP_3_EU-PRIVACY-META-PLATFORMS-1708926948_004149-1708930187.jpg?resize=1200%2C630&quality=80",
+      "publishedAt": "2024-02-26T07:15:52Z",
+      "content": "Facebook owner Meta has unveiled plans to launch a dedicated team to combat disinformation and harms generated by artificial intelligence (AI) ahead of the upcoming European Parliament elections.\r\nMa… [+2588 chars]"
+    },
+    {
+      "source": { "id": null, "name": "JDN" },
+      "author": "Bruno Poncet",
+      "title": "Comment un Français a hacké les hackers chinois... du Japanese Keyword Hack",
+      "description": "Ce passionné d'informatique français a réussi a infiltré un réseau de hackers chinois. Ils se cachaient derrière le tristement célèbre hack, responsable notamment de milliers de pages spammy. Récit.",
+      "url": "https://www.journaldunet.com/cybersecurite/1528573-comment-un-francais-a-hacke-les-hackers-du-japanese-keyword-hack/",
+      "urlToImage": "https://img-0.journaldunet.com/BKQKSgCfw6xG-RcGGL8NbX6knTE=/1500x/smart/a7960ffd4a904229b753cc081fd554d7/ccmcms-jdn/39499497.jpeg",
+      "publishedAt": "2024-02-27T11:28:36Z",
+      "content": "Ce passionné d'informatique français a réussi a infiltré un réseau de hackers chinois. Ils se cachaient derrière le tristement célèbre hack, responsable notamment de milliers de pages spammy. Récit. … [+5958 chars]"
+    },
+    {
+      "source": { "id": "techradar", "name": "TechRadar" },
+      "author": "Craig Hale",
+      "title": "Shockingly enough, forcing people back to the office isn't leading to higher profits",
+      "description": "Workers aren’t happy about going back to the office, and companies aren’t seeing any benefits anyway, says report.",
+      "url": "https://www.techradar.com/pro/shockingly-enough-forcing-people-back-to-the-office-isnt-leading-to-higher-profits",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/nX6wdFyAJwTDQ3DbUdk4VK-1200-80.jpg",
+      "publishedAt": "2024-02-05T11:08:40Z",
+      "content": "A new report\r\n has revealed that return-to-office mandates, implemented by many of the world’s most influential companies in the months and years that followed the pandemic, aren’t actually leading t… [+1707 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MakeUseOf" },
+      "author": "Tomisin Olujinmi",
+      "title": "How to Create Gmail Filters to Easily Organize Your Inbox",
+      "description": "Struggling with email overload? Here are some simple steps to create Gmail filters and organize your inbox effortlessly.",
+      "url": "https://www.makeuseof.com/how-to-create-gmail-filters/",
+      "urlToImage": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/01/gmail-logo-on-laptop.jpg",
+      "publishedAt": "2024-02-05T12:00:12Z",
+      "content": "Key Takeaways\r\n<ul><li> Gmail filters allow you to organize and manage your inbox by adding labels, marking emails as read, or deleting emails. </li><li> Create filters from the Search bar, an email,… [+7087 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Phys.Org" },
+      "author": "Science X",
+      "title": "Using text analytics, scientists map the spread of potato blight prior to the Irish potato famine",
+      "description": "North Carolina State University researchers used text analytics on both historic and modern writing to reveal more information about the effects and spread of the plant pathogen—now known as Phytophthora infestans—that caused the 1840s Irish potato famine and…",
+      "url": "https://phys.org/news/2024-02-text-analytics-scientists-potato-blight.html",
+      "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2024/using-written-recordsa.jpg",
+      "publishedAt": "2024-02-15T16:00:01Z",
+      "content": "North Carolina State University researchers used text analytics on both historic and modern writing to reveal more information about the effects and spread of the plant pathogennow known as Phytophth… [+3598 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "SEO Benchmarking: What It Is & How to Track 10 Key Benchmarks",
+      "description": "Discover why you should benchmark SEO and 10 key benchmarks to monitor for your website‘s success.",
+      "url": "https://www.semrush.com/blog/benchmark-seo/",
+      "urlToImage": "",
+      "publishedAt": "2024-02-08T14:56:00Z",
+      "content": "What Is SEO Benchmarking?\r\nSEO benchmarks are specific metrics you use to measure your website's search engine performance.\r\nThey can include factors like:\r\n<ul><li>Keyword rankings</li><li>Conversio… [+17222 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Semrush.com" },
+      "author": null,
+      "title": "How to Get Subscribers on YouTube: 6 Tips for Free Growth",
+      "description": "Learn how to get subscribers on YouTube with our list of tips to help you grow your channel for free.",
+      "url": "https://www.semrush.com/blog/how-to-get-subscribers-on-youtube/",
+      "urlToImage": "https://static.semrush.com/blog/uploads/media/95/fa/95fa84388cc7b919fae349652576a7ee/how-to-get-subscribers-on-youtube-sm.png",
+      "publishedAt": "2024-02-08T13:04:00Z",
+      "content": "Getting more subscribers on YouTube is key if you want to grow your audience and access the platforms monetization features.\r\nWhy?\r\nBecause hitting 1,000 subscribers is one of the criteria to become … [+19273 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Search Engine Journal" },
+      "author": "Wix Studio",
+      "title": "Top 3 SEO Checklists For On-Page & Technical SEO In 2024 via @sejournal, @WixStudio",
+      "description": "Elevate your SEO implementation with checklists, templates, and automated insights. Perfect for boosting your team's SEO efficiency and ROI in 2024.\nThe post Top 3 SEO Checklists For On-Page & Technical SEO In 2024 appeared first on Search Engine Journal.",
+      "url": "https://www.searchenginejournal.com/top-seo-checklists-wixstudio-spa/507371/",
+      "urlToImage": "https://www.searchenginejournal.com/wp-content/uploads/2024/02/featured-65c3841426102-sej.jpg",
+      "publishedAt": "2024-02-21T06:00:43Z",
+      "content": "This post was sponsored by Wix. The opinions expressed in this article are the sponsor’s own.\r\nIn the last 18 months, conversations about SEO have been dominated by artificial intelligence.\r\nNew ways… [+7638 chars]"
+    }
+  ]
+}
